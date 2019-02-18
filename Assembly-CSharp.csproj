@@ -70,6 +70,7 @@
     <Compile Include="Assets\5UDE\Features\Stationary.cs" />
     <Compile Include="Assets\5UDE\Features\Trigger.cs" />
     <Compile Include="Assets\5UDE\Interactions\Steering.cs" />
+    <Compile Include="Assets\5UDE\Interactions\TravelSteering.cs" />
     <Compile Include="Assets\5UDE\Interactions\VirtualHand.cs" />
     <Compile Include="Assets\5UDE\Systems\Common\Scripts\CommonAxis.cs" />
     <Compile Include="Assets\5UDE\Systems\Common\Scripts\CommonButton.cs" />
@@ -197,16 +198,16 @@
     <None Include="Assets\SteamVR\InteractionSystem\Core\Shaders\SeeThru.shader" />
     <None Include="Assets\SteamVR\InteractionSystem\Readme_InteractionSystem.txt" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/nares/Desktop/MS/Spring 19/VR/Unity/Homework 1/VR_Unity_Works-master/VR_Unity_Works-master/RoomBuilding/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/nares/Downloads/VR_Unity_Works-master/VR_Unity_Works-master/RoomBuilding_V2/RoomBuilding/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/nares/Desktop/MS/Spring 19/VR/Unity/Homework 1/VR_Unity_Works-master/VR_Unity_Works-master/RoomBuilding/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/nares/Downloads/VR_Unity_Works-master/VR_Unity_Works-master/RoomBuilding_V2/RoomBuilding/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/nares/Desktop/MS/Spring 19/VR/Unity/Homework 1/VR_Unity_Works-master/VR_Unity_Works-master/RoomBuilding/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/nares/Downloads/VR_Unity_Works-master/VR_Unity_Works-master/RoomBuilding_V2/RoomBuilding/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/nares/Desktop/MS/Spring 19/VR/Unity/Homework 1/VR_Unity_Works-master/VR_Unity_Works-master/RoomBuilding/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/nares/Downloads/VR_Unity_Works-master/VR_Unity_Works-master/RoomBuilding_V2/RoomBuilding/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

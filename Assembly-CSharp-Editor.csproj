@@ -68,16 +68,16 @@
     <Compile Include="Assets\SteamVR\Editor\SteamVR_SkyboxEditor.cs" />
     <Compile Include="Assets\SteamVR\Editor\SteamVR_Update.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/nares/Desktop/MS/Spring 19/VR/Unity/Homework 1/VR_Unity_Works-master/VR_Unity_Works-master/RoomBuilding/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/nares/Downloads/VR_Unity_Works-master/VR_Unity_Works-master/RoomBuilding_V2/RoomBuilding/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/nares/Desktop/MS/Spring 19/VR/Unity/Homework 1/VR_Unity_Works-master/VR_Unity_Works-master/RoomBuilding/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/nares/Downloads/VR_Unity_Works-master/VR_Unity_Works-master/RoomBuilding_V2/RoomBuilding/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/nares/Desktop/MS/Spring 19/VR/Unity/Homework 1/VR_Unity_Works-master/VR_Unity_Works-master/RoomBuilding/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/nares/Downloads/VR_Unity_Works-master/VR_Unity_Works-master/RoomBuilding_V2/RoomBuilding/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/nares/Desktop/MS/Spring 19/VR/Unity/Homework 1/VR_Unity_Works-master/VR_Unity_Works-master/RoomBuilding/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/nares/Downloads/VR_Unity_Works-master/VR_Unity_Works-master/RoomBuilding_V2/RoomBuilding/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
